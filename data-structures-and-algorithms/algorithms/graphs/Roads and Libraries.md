@@ -9,7 +9,7 @@
 
 First, with the case c_lib <= c_road, there's no need to repair any roads as the optimal way is to simply build a library in every cities. <br>
 Otherwise we can see a road as a "discount" library, as long as we can find a path for the city to another one, who already has a library. So we can use disjiont sets to construct potential connectivity graphs among the given point set. <br>
-And to calculate the total cost, we only need to find out both the amount of the sets (as the libraries we need to build) and the element numbers in each sets (as the number of roads we need to build is element - 1, according to the properties of spanning tree).
+And to calculate the total cost, we only need to find out both the amount of the sets (as the libraries we need to build) and the element numbers in each sets (as the number of roads we need to build is |elements| - 1, according to the properties of spanning tree).
 
 ## Code
 
