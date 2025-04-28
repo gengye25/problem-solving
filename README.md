@@ -1,7 +1,15 @@
-# Recording of Problem Solving on OJs
-Mainly by C++, maybe will update with Java and (Ocaml or Haskell) in the future. <br>
+# Problem Solving
+
 
 ## Categories:  
-Data Structure & Algorithms <br>
-Language Features <br>
-...
+**Data Structure & Algorithms** <br>
+Mainly written by C++, maybe will update with Java and (Ocaml or Haskell) in the future.
+
+**Language Features** <br>
+
+
+**Cryptology & Security** <br>
+
+
+**...**
+
